@@ -1,0 +1,6338 @@
+Started Log...
+Loading file: C:\Code\Arbeitsplaner\src\raw\052015.xls...
+Set month to 5
+Set year to 2015
+Done.
+Checking which row contains events.
+Found events in row 0
+Looking for events...
+Skipped column 0
+Skipped column 1
+Found event 'CH-Schönheit' in column 2
+Looking for date, starting with column 2...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 3: 1 
+Checking for time...
+Interpreting string:   19.00  
+Found start at: 19:00
+Skipped column 3
+Found event 'Kasimir' in column 4
+Looking for date, starting with column 4...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 5: 2 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Skipped column 5
+Found event 'Kasimir' in column 6
+Looking for date, starting with column 6...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 7: 3 
+Checking for time...
+Interpreting string:   15.00  
+Found start at: 15:00
+Found event 'Zweifel /H. Schmidt' in column 7
+Looking for date, starting with column 7...
+Found date in current position: 3 
+Checking for time...
+Interpreting string:    20.00 
+Found start at: 20:00
+Skipped column 8
+Skipped column 9
+Found event 'CH-Schönheit' in column 10
+Looking for date, starting with column 10...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 11: 4 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Skipped column 11
+Skipped column 12
+Found event 'Schneeweiss' in column 13
+Looking for date, starting with column 13...
+Found date in current position: 5 
+Checking for time...
+Interpreting string:   14.00 Publ. Gespr.
+Found start at: 14:00
+Found event 'Zofen' in column 14
+Looking for date, starting with column 14...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 16: 6 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Übergewicht' in column 15
+Looking for date, starting with column 15...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 16: 6 
+Checking for time...
+Interpreting string:  Prem.  20.30 
+Found start at: 20:30
+Found event 'Prem. Feier' in column 16
+Looking for date, starting with column 16...
+Found date in current position: 6 
+Checking for time...
+Interpreting string:   bis ca. 2.00
+Found end at: 02:00
+Skipped column 17
+Found event 'Zofen' in column 18
+Looking for date, starting with column 18...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 19: 7 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Schneeweiss' in column 19
+Looking for date, starting with column 19...
+Found date in current position: 7 
+Checking for time...
+Interpreting string:   10.00  
+Found start at: 10:00
+Found event 'Gantenbein' in column 20
+Looking for date, starting with column 20...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 21: 8 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Zürich Tanzt' in column 21
+Looking for date, starting with column 21...
+Found date in current position: 8 
+Checking for time...
+Interpreting string:   10.30  
+Found start at: 10:30
+Found event 'Zürich Tanzt' in column 22
+Looking for date, starting with column 22...
+No date found, looking to the left...
+Found date in column 21: 8 
+Checking for time...
+Interpreting string:    20.00 
+Found start at: 20:00
+Found event 'Zofen' in column 23
+Looking for date, starting with column 23...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 25: 9 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Übergewicht' in column 24
+Looking for date, starting with column 24...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 25: 9 
+Checking for time...
+Interpreting string:    20.30 
+Found start at: 20:30
+Found event 'Zürich Tanzt' in column 25
+Looking for date, starting with column 25...
+Found date in current position: 9 
+Checking for time...
+Interpreting string:   18.00  
+Found start at: 18:00
+Found event 'Love no love' in column 26
+Looking for date, starting with column 26...
+No date found, looking to the left...
+Found date in column 25: 9 
+Checking for time...
+Interpreting string:  Prem.  20.15 
+Found start at: 20:15
+Found event 'Prem. Feier' in column 27
+Looking for date, starting with column 27...
+No date found, looking to the left...
+Found date in column 25: 9 
+Checking for time...
+Interpreting string:   bis ca. 2.00
+Found end at: 02:00
+Found event 'Kasimir' in column 28
+Looking for date, starting with column 28...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 29: 10 
+Checking for time...
+Interpreting string:  18.15 19.00  
+Found introduction at: 18:15
+Found start at: 19:00
+Skipped column 29
+Skipped column 30
+Found event 'Übergewicht' in column 31
+Looking for date, starting with column 31...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 32: 11 
+Checking for time...
+Interpreting string:   20.30  
+Found start at: 20:30
+Found event 'Schneeweiss' in column 32
+Looking for date, starting with column 32...
+Found date in current position: 11 
+Checking for time...
+Interpreting string:  17.15 18.00  
+Found introduction at: 17:15
+Found start at: 18:00
+Found event 'Love no love' in column 33
+Looking for date, starting with column 33...
+No date found, looking to the left...
+Found date in column 32: 11 
+Checking for time...
+Interpreting string:    20.15 Publ. G.
+Found start at: 20:15
+Found event 'Morlang' in column 34
+Looking for date, starting with column 34...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 35: 12 
+Checking for time...
+Interpreting string:  Dern. 20.30  
+Found start at: 20:30
+Found event 'Love no love' in column 35
+Looking for date, starting with column 35...
+Found date in current position: 12 
+Checking for time...
+Interpreting string:   20.15  
+Found start at: 20:15
+Found event 'Buchpräs. Kammer' in column 36
+Looking for date, starting with column 36...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 38: 13 
+Checking for time...
+Interpreting string:  Arb. Beg. 18.00 
+Found start at: 18:00
+Found event 'Schmutzige Hände' in column 37
+Looking for date, starting with column 37...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 38: 13 
+Checking for time...
+Interpreting string:  Prem.  20.00 
+Found start at: 20:00
+Found event 'Prem. Feier' in column 38
+Looking for date, starting with column 38...
+Found date in current position: 13 
+Checking for time...
+Interpreting string:   bis ca. 02.00
+Found end at: 02:00
+Found event 'Schneeweiss' in column 39
+Looking for date, starting with column 39...
+No date found, looking to the left...
+Found date in column 38: 13 
+Checking for time...
+Interpreting string:   10.00  
+Found start at: 10:00
+Found event 'Schneeweiss' in column 40
+Looking for date, starting with column 40...
+No date found, looking to the left...
+Found date in column 38: 13 
+Checking for time...
+Interpreting string:    19.00 Publ. G.
+Found start at: 19:00
+Found event 'Zofen' in column 41
+Looking for date, starting with column 41...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 42: 14 
+Checking for time...
+Interpreting string:   19.00  
+Found start at: 19:00
+Skipped column 42
+Found event 'Schmutzige Hände' in column 43
+Looking for date, starting with column 43...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 44: 15 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Schneeweiss' in column 44
+Looking for date, starting with column 44...
+Found date in current position: 15 
+Checking for time...
+Interpreting string:   18.00  
+Found start at: 18:00
+Found event 'Ursus+Nadeschkin' in column 45
+Looking for date, starting with column 45...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 46: 16 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Sterbeszenen' in column 46
+Looking for date, starting with column 46...
+Found date in current position: 16 
+Checking for time...
+Interpreting string:  19.15 20.00  
+Found introduction at: 19:15
+Found start at: 20:00
+Found event 'Ursus+Nadeschkin' in column 47
+Looking for date, starting with column 47...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 48: 17 
+Checking for time...
+Interpreting string:   19.00  
+Found start at: 19:00
+Skipped column 48
+Skipped column 49
+Skipped column 50
+Skipped column 51
+Skipped column 52
+Found event 'Kasimir' in column 53
+Looking for date, starting with column 53...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 54: 18 
+Checking for time...
+Interpreting string:  19.15 20.00  
+Found introduction at: 19:15
+Found start at: 20:00
+Found event 'Sterbeszenen' in column 54
+Looking for date, starting with column 54...
+Found date in current position: 18 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Schmutzige Hände' in column 55
+Looking for date, starting with column 55...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 56: 19 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Sponsoren Anlass' in column 56
+Looking for date, starting with column 56...
+Found date in current position: 19 
+Checking for time...
+Interpreting string:   18.30  
+Found start at: 18:30
+Found event 'Love no love' in column 57
+Looking for date, starting with column 57...
+No date found, looking to the left...
+Found date in column 56: 19 
+Checking for time...
+Interpreting string:    20.15 
+Found start at: 20:15
+Found event 'Abo-Anlass' in column 58
+Looking for date, starting with column 58...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 61: 20 
+Checking for time...
+Interpreting string:   18.00  
+Found start at: 18:00
+Found event 'Schmutzige Hände' in column 59
+Looking for date, starting with column 59...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 61: 20 
+Checking for time...
+Interpreting string:    20.00 
+Found start at: 20:00
+Found event 'Übergewicht' in column 60
+Looking for date, starting with column 60...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 61: 20 
+Checking for time...
+Interpreting string:     20.30
+Found start at: 20:30
+Found event 'Saison Präs. Mitarb.' in column 61
+Looking for date, starting with column 61...
+Found date in current position: 20 
+Checking for time...
+Interpreting string:  Arb. Beg. 9.00 
+Found start at: 09:00
+Found event 'Medienkonferenz' in column 62
+Looking for date, starting with column 62...
+No date found, looking to the left...
+Found date in column 61: 20 
+Checking for time...
+Interpreting string:  Arb. Beg. 9.30 
+Found start at: 09:30
+Found event 'Love no love' in column 63
+Looking for date, starting with column 63...
+No date found, looking to the left...
+Found date in column 61: 20 
+Checking for time...
+Interpreting string:     20.15
+Found start at: 20:15
+Found event 'Schmutzige Hände' in column 64
+Looking for date, starting with column 64...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 65: 21 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Öff. Führung' in column 65
+Looking for date, starting with column 65...
+Found date in current position: 21 
+Checking for time...
+Interpreting string:   19.00  
+Found start at: 19:00
+Found event 'Love no love' in column 66
+Looking for date, starting with column 66...
+No date found, looking to the left...
+Found date in column 65: 21 
+Checking for time...
+Interpreting string:  19.3  20.15 
+Found introduction at: 19:30
+Found start at: 20:15
+Found event 'Zofen' in column 67
+Looking for date, starting with column 67...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 68: 22 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Übergewicht' in column 68
+Looking for date, starting with column 68...
+Found date in current position: 22 
+Checking for time...
+Interpreting string:    20.30 
+Found start at: 20:30
+Found event 'Sterbeszenen' in column 69
+Looking for date, starting with column 69...
+No date found, looking to the left...
+Found date in column 68: 22 
+Checking for time...
+Interpreting string:  19.15 20.00  
+Found introduction at: 19:15
+Found start at: 20:00
+Skipped column 70
+Found event 'Sterbeszenen' in column 71
+Looking for date, starting with column 71...
+Found date in current position: 23 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Skipped column 72
+Skipped column 73
+Skipped column 74
+Found event 'Schmutzige Hände' in column 75
+Looking for date, starting with column 75...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 76: 25 
+Checking for time...
+Interpreting string:   19.00  
+Found start at: 19:00
+Found event 'Love no love' in column 76
+Looking for date, starting with column 76...
+Found date in current position: 25 
+Checking for time...
+Interpreting string:   19.15  
+Found start at: 19:15
+Found event 'Schmutzige Hände' in column 77
+Looking for date, starting with column 77...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 78: 26 
+Checking for time...
+Interpreting string:  19.15 20.00  
+Found introduction at: 19:15
+Found start at: 20:00
+Found event 'Übergewicht' in column 78
+Looking for date, starting with column 78...
+Found date in current position: 26 
+Checking for time...
+Interpreting string:    20.30 
+Found start at: 20:30
+Skipped column 79
+Found event 'Zofen' in column 80
+Looking for date, starting with column 80...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 81: 27 
+Checking for time...
+Interpreting string:   20.00 Publ. Gespr.
+Found start at: 20:00
+Found event 'Sterbeszenen' in column 81
+Looking for date, starting with column 81...
+Found date in current position: 27 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'A1 Strasse' in column 82
+Looking for date, starting with column 82...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 83: 28 
+Checking for time...
+Interpreting string:  Prem. 20.00  
+Found start at: 20:00
+Found event 'Prem. Feier' in column 83
+Looking for date, starting with column 83...
+Found date in current position: 28 
+Checking for time...
+Interpreting string:   bis ca. 2.00
+Found end at: 02:00
+Found event 'Love no love' in column 84
+Looking for date, starting with column 84...
+No date found, looking to the left...
+Found date in column 83: 28 
+Checking for time...
+Interpreting string:   20.15  
+Found start at: 20:15
+Found event 'Ursus+Nadeschkin' in column 85
+Looking for date, starting with column 85...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 86: 29 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Übergewicht' in column 86
+Looking for date, starting with column 86...
+Found date in current position: 29 
+Checking for time...
+Interpreting string:    20.30 
+Found start at: 20:30
+Found event 'Love no love' in column 87
+Looking for date, starting with column 87...
+No date found, looking to the left...
+Found date in column 86: 29 
+Checking for time...
+Interpreting string:   20.15  
+Found start at: 20:15
+Found event 'Unicef Gala' in column 88
+Looking for date, starting with column 88...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 90: 30 
+Checking for time...
+Interpreting string:  Arb. Beg. 9.30 bis ca 13.30   
+Found end at: 13:30
+Found start at: 09:30
+Found event 'Ursus+Nadeschkin' in column 89
+Looking for date, starting with column 89...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 90: 30 
+Checking for time...
+Interpreting string:    20.00 
+Found start at: 20:00
+Found event 'Übergewicht' in column 90
+Looking for date, starting with column 90...
+Found date in current position: 30 
+Checking for time...
+Interpreting string:     20.30
+Found start at: 20:30
+Found event 'Sterbeszenen' in column 91
+Looking for date, starting with column 91...
+No date found, looking to the left...
+Found date in column 90: 30 
+Checking for time...
+Interpreting string:   20.00  
+Found start at: 20:00
+Found event 'Ursus+Nadeschkin' in column 92
+Looking for date, starting with column 92...
+No date found, looking to the left...
+No date found, looking to the right...
+Found date in column 93: 31 
+Checking for time...
+Interpreting string:   19.00  
+Found start at: 19:00
+Found event 'Sterbeszenen' in column 93
+Looking for date, starting with column 93...
+Found date in current position: 31 
+Checking for time...
+Interpreting string:   19.30  
+Found start at: 19:30
+Skipped column 94
+Skipped column 95
+Skipped column 96
+Skipped column 97
+Skipped column 98
+Skipped column 99
+Skipped column 100
+Skipped column 101
+Skipped column 102
+Skipped column 103
+Skipped column 104
+Skipped column 105
+Skipped column 106
+Skipped column 107
+Skipped column 108
+Skipped column 109
+Skipped column 110
+Skipped column 111
+Skipped column 112
+Skipped column 113
+Skipped column 114
+Skipped column 115
+Skipped column 116
+Skipped column 117
+Skipped column 118
+Skipped column 119
+Skipped column 120
+Skipped column 121
+Skipped column 122
+Skipped column 123
+Skipped column 124
+Skipped column 125
+Skipped column 126
+Skipped column 127
+Skipped column 128
+Skipped column 129
+Skipped column 130
+Skipped column 131
+Skipped column 132
+Skipped column 133
+Skipped column 134
+Skipped column 135
+Skipped column 136
+Skipped column 137
+Skipped column 138
+Skipped column 139
+Skipped column 140
+Skipped column 141
+Skipped column 142
+Skipped column 143
+Skipped column 144
+Skipped column 145
+Skipped column 146
+Skipped column 147
+Skipped column 148
+Skipped column 149
+Skipped column 150
+Skipped column 151
+Skipped column 152
+Skipped column 153
+Skipped column 154
+Skipped column 155
+Skipped column 156
+Skipped column 157
+Skipped column 158
+Skipped column 159
+Skipped column 160
+Skipped column 161
+Skipped column 162
+Skipped column 163
+Skipped column 164
+Skipped column 165
+Skipped column 166
+Skipped column 167
+Skipped column 168
+Skipped column 169
+Skipped column 170
+Skipped column 171
+Skipped column 172
+Skipped column 173
+Skipped column 174
+Skipped column 175
+Skipped column 176
+Skipped column 177
+Skipped column 178
+Skipped column 179
+Skipped column 180
+Skipped column 181
+Skipped column 182
+Skipped column 183
+Skipped column 184
+Skipped column 185
+Skipped column 186
+Skipped column 187
+Skipped column 188
+Skipped column 189
+Skipped column 190
+Skipped column 191
+Skipped column 192
+Skipped column 193
+Skipped column 194
+Skipped column 195
+Skipped column 196
+Skipped column 197
+Skipped column 198
+Skipped column 199
+Skipped column 200
+Skipped column 201
+Skipped column 202
+Skipped column 203
+Skipped column 204
+Skipped column 205
+Skipped column 206
+Skipped column 207
+Skipped column 208
+Skipped column 209
+Skipped column 210
+Skipped column 211
+Skipped column 212
+Skipped column 213
+Skipped column 214
+Skipped column 215
+Skipped column 216
+Skipped column 217
+Skipped column 218
+Skipped column 219
+Skipped column 220
+Skipped column 221
+Skipped column 222
+Skipped column 223
+Skipped column 224
+Skipped column 225
+Skipped column 226
+Skipped column 227
+Skipped column 228
+Skipped column 229
+Skipped column 230
+Skipped column 231
+Skipped column 232
+Skipped column 233
+Skipped column 234
+Skipped column 235
+Skipped column 236
+Skipped column 237
+Skipped column 238
+Skipped column 239
+Skipped column 240
+Skipped column 241
+Skipped column 242
+Skipped column 243
+Skipped column 244
+Skipped column 245
+Skipped column 246
+Skipped column 247
+Skipped column 248
+Skipped column 249
+Skipped column 250
+Skipped column 251
+Skipped column 252
+Skipped column 253
+Skipped column 254
+Skipped column 255
+Done.
+Looking for persons...
+Found person 'Zimmermann Isabel' in row 13
+Creating new
+Found person 'Adame Rafael' in row 14
+Creating new
+Found person 'Hunziker Roman' in row 15
+Creating new
+Found person 'Jovanovski Melanie' in row 16
+Creating new
+Found person 'Renfer Delphine' in row 17
+Creating new
+Found person 'Spotti Renzo' in row 18
+Creating new
+Found person 'Acklin Matthias' in row 19
+Creating new
+Found person 'Barbé Nicolas' in row 20
+Creating new
+Found person 'Binkert Norina' in row 21
+Creating new
+Found person 'Brüderli Heidi' in row 22
+Creating new
+Found person 'Demenga Lorenzo' in row 23
+Creating new
+Found person 'Dietmüller Alexander' in row 24
+Creating new
+Found person 'Erdin Andri' in row 25
+Creating new
+Found person 'Früh Margot' in row 26
+Creating new
+Found person 'Fuchs Manuela' in row 27
+Creating new
+Found person 'Geser Gerda' in row 28
+Creating new
+Found person 'Henn Sabine' in row 29
+Creating new
+Found person 'Kapiri Thokozani' in row 30
+Creating new
+Found person 'Lendi Jael' in row 31
+Creating new
+Found person 'Meier-Sledz Mirka' in row 32
+Creating new
+Found person 'Meister Marietta' in row 33
+Creating new
+Found person 'Meyer Annina' in row 34
+Creating new
+Found person 'Planzer Rita' in row 35
+Creating new
+Found person 'Puppato Gun-Britt' in row 36
+Creating new
+Found person 'Schertenleib Thomas' in row 37
+Creating new
+Found person 'Schwaller Elia' in row 38
+Creating new
+Found person 'Singer Leonie' in row 39
+Creating new
+Found person 'Skender Keko' in row 40
+Creating new
+Found person 'Sorgo Noemi' in row 41
+Creating new
+Found person 'Staehli Uschi' in row 42
+Creating new
+Found person 'Trott Margarete' in row 43
+Creating new
+Found person 'Turelli Graziella' in row 44
+Creating new
+Found person 'Van Eerd Maxine' in row 45
+Creating new
+Found person 'Yogarajan Patrick' in row 46
+Creating new
+Found person 'Zanchetta Giacomo' in row 47
+Creating new
+Found person 'NN' in row 48
+Creating new
+Stopping in row 49
+Done.
+Looking for jobs...
+Looking for jobs for Zimmermann Isabel in row 13...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 19:
+2015-05-07		10:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 22:
+2015-05-08		20:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Checking E/V
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 25:
+2015-05-09		18:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 58:
+2015-05-20		18:00		Pfauen		Abo-Anlass
+Adding job...
+Done!
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 62:
+2015-05-20		09:30		Schiffbau	Medienkonferenz
+Adding job...
+Done!
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Checking Vef
+Valid!
+Found: VEF in column 66:
+2015-05-21	19:30	20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Adame Rafael in row 14...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Hunziker Roman in row 15...
+Checking P
+Valid!
+Found: P in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 25:
+2015-05-09		18:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 27:
+2015-05-09			02:00	Schiffbau	Prem. Feier
+Adding job...
+Done!
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 35:
+2015-05-12		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 36 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 38:
+2015-05-13			02:00	Pfauen		Prem. Feier
+Adding job...
+Done!
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Checking Vef
+Valid!
+Found: VEF in column 46:
+2015-05-16	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 57:
+2015-05-19		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Checking Vef
+Valid!
+Found: VEF in column 69:
+2015-05-22	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 70 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 71:
+2015-05-23		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 76:
+2015-05-25		19:15		Schiffbau	Love no love
+Adding job...
+Done!
+Checking Vef
+Valid!
+Found: VEF in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 78:
+2015-05-26		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 84:
+2015-05-28		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Jovanovski Melanie in row 16...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Checking Vef
+Valid!
+Found: VEF in column 32:
+2015-05-11	17:15	18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 33:
+2015-05-11		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 34 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 35:
+2015-05-12		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 39:
+2015-05-13		10:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 40:
+2015-05-13		19:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 54:
+2015-05-18		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 57:
+2015-05-19		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 71:
+2015-05-23		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 87:
+2015-05-29		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 91:
+2015-05-30		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 92 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 93:
+2015-05-31		19:30		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Looking for jobs for Renfer Delphine in row 17...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 15:
+2015-05-06		20:30		Pfauen		Übergewicht (Premiere)
+Adding job...
+Done!
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 24:
+2015-05-09		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking Vef
+Valid!
+Found: VEF in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Checking V/P
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 31:
+2015-05-11		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking Vef
+Valid!
+Found: VEF in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 60:
+2015-05-20		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 78:
+2015-05-26		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 86:
+2015-05-29		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 90:
+2015-05-30		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Spotti Renzo in row 18...
+Checking V
+Valid!
+Found: V in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 13:
+2015-05-05		14:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 15:
+2015-05-06		20:30		Pfauen		Übergewicht (Premiere)
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 16:
+2015-05-06			02:00	Pfauen		Prem. Feier
+Adding job...
+Done!
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 19:
+2015-05-07		10:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 24:
+2015-05-09		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 34:
+2015-05-12		20:30		Pfauen		Morlang (Derniere)
+Adding job...
+Done!
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 61:
+2015-05-20		09:00		Schiffbau	Saison Präs. Mitarb.
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 62:
+2015-05-20		09:30		Schiffbau	Medienkonferenz
+Adding job...
+Done!
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 65:
+2015-05-21		19:00		Schiffbau	Öff. Führung
+Adding job...
+Done!
+Checking Nef
+Valid!
+Found: NEF in column 66:
+2015-05-21	19:30	20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 71:
+2015-05-23		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 81:
+2015-05-27		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Checking V
+Valid!
+Found: V in column 83:
+2015-05-28			02:00	Pfauen		Prem. Feier
+Adding job...
+Done!
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 93:
+2015-05-31		19:30		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Looking for jobs for Acklin Matthias in row 19...
+Checking N
+Valid!
+Found: N in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 13:
+2015-05-05		14:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 15:
+2015-05-06		20:30		Pfauen		Übergewicht (Premiere)
+Adding job...
+Done!
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 22:
+2015-05-08		20:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 25:
+2015-05-09		18:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 27:
+2015-05-09			02:00	Schiffbau	Prem. Feier
+Adding job...
+Done!
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 31:
+2015-05-11		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 34:
+2015-05-12		20:30		Pfauen		Morlang (Derniere)
+Adding job...
+Done!
+Cell in column 35 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 36:
+2015-05-13		18:00		Pfauen		Buchpräs. Kammer
+Adding job...
+Done!
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 56:
+2015-05-19		18:30		Schiffbau	Sponsoren Anlass
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 57:
+2015-05-19		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking B+
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 90:
+2015-05-30		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Barbé Nicolas in row 20...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 32:
+2015-05-11	17:15	18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 33:
+2015-05-11		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 65:
+2015-05-21		19:00		Schiffbau	Öff. Führung
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 66:
+2015-05-21	19:30	20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 76:
+2015-05-25		19:15		Schiffbau	Love no love
+Adding job...
+Done!
+Checking Nef
+Valid!
+Found: NEF in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Binkert Norina in row 21...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 25:
+2015-05-09		18:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 36:
+2015-05-13		18:00		Pfauen		Buchpräs. Kammer
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Checking B+
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 54:
+2015-05-18		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 60:
+2015-05-20		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 71:
+2015-05-23		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 78:
+2015-05-26		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 86:
+2015-05-29		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Brüderli Heidi in row 22...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 36:
+2015-05-13		18:00		Pfauen		Buchpräs. Kammer
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 44:
+2015-05-15		18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 60:
+2015-05-20		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 69:
+2015-05-22	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 86:
+2015-05-29		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Demenga Lorenzo in row 23...
+Checking B
+Valid!
+Found: B in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 24:
+2015-05-09		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 46:
+2015-05-16	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 63:
+2015-05-20		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Dietmüller Alexander in row 24...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 21:
+2015-05-08		10:30		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 35:
+2015-05-12		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 39:
+2015-05-13		10:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 40 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 63:
+2015-05-20		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Erdin Andri in row 25...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 15:
+2015-05-06		20:30		Pfauen		Übergewicht (Premiere)
+Adding job...
+Done!
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 38:
+2015-05-13			02:00	Pfauen		Prem. Feier
+Adding job...
+Done!
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Früh Margot in row 26...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 54:
+2015-05-18		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 76:
+2015-05-25		19:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 81:
+2015-05-27		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 86:
+2015-05-29		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 91:
+2015-05-30		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 92 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 93:
+2015-05-31		19:30		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Looking for jobs for Fuchs Manuela in row 27...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 22:
+2015-05-08		20:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Checking V
+Valid!
+Found: V in column 44:
+2015-05-15		18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Geser Gerda in row 28...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 40:
+2015-05-13		19:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 44:
+2015-05-15		18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking E+
+Valid!
+Found: E+ in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Henn Sabine in row 29...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Kapiri Thokozani in row 30...
+Checking N
+Valid!
+Found: N in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 69:
+2015-05-22	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Lendi Jael in row 31...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 21:
+2015-05-08		10:30		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 90:
+2015-05-30		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Meier-Sledz Mirka in row 32...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 68:
+2015-05-22		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Meister Marietta in row 33...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Meyer Annina in row 34...
+Checking E
+Valid!
+Found: E in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 22:
+2015-05-08		20:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 25:
+2015-05-09		18:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 34:
+2015-05-12		20:30		Pfauen		Morlang (Derniere)
+Adding job...
+Done!
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 46:
+2015-05-16	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 66:
+2015-05-21	19:30	20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 84:
+2015-05-28		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 87:
+2015-05-29		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 91:
+2015-05-30		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Planzer Rita in row 35...
+Checking E
+Valid!
+Found: E in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Puppato Gun-Britt in row 36...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 58:
+2015-05-20		18:00		Pfauen		Abo-Anlass
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 68:
+2015-05-22		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 appears to be no job, alert issued. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Schertenleib Thomas in row 37...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 24:
+2015-05-09		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 33:
+2015-05-11		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 34 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 35:
+2015-05-12		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 71:
+2015-05-23		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 76:
+2015-05-25		19:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 83:
+2015-05-28			02:00	Pfauen		Prem. Feier
+Adding job...
+Done!
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 87:
+2015-05-29		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking B+
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Schwaller Elia in row 38...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 13:
+2015-05-05		14:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 25:
+2015-05-09		18:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 26:
+2015-05-09		20:15		Schiffbau	Love no love (Premiere)
+Adding job...
+Done!
+Cell in column 27 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 46:
+2015-05-16	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 63:
+2015-05-20		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 66:
+2015-05-21	19:30	20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 69:
+2015-05-22	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 81:
+2015-05-27		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 84:
+2015-05-28		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 91:
+2015-05-30		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 92 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 93:
+2015-05-31		19:30		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Looking for jobs for Singer Leonie in row 39...
+Checking N
+Valid!
+Found: N in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 16:
+2015-05-06			02:00	Pfauen		Prem. Feier
+Adding job...
+Done!
+Cell in column 17 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 81:
+2015-05-27		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Skender Keko in row 40...
+Checking N
+Valid!
+Found: N in column 4:
+2015-05-02		20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 5 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 22:
+2015-05-08		20:00		Schiffbau	Zürich Tanzt
+Adding job...
+Done!
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 32:
+2015-05-11	17:15	18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 33:
+2015-05-11		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 40:
+2015-05-13		19:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 63:
+2015-05-20		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 69:
+2015-05-22	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 84:
+2015-05-28		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 87:
+2015-05-29		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 88 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Sorgo Noemi in row 41...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 32:
+2015-05-11	17:15	18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 33:
+2015-05-11		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 54:
+2015-05-18		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 57:
+2015-05-19		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 76:
+2015-05-25		19:15		Schiffbau	Love no love
+Adding job...
+Done!
+Checking Nef
+Valid!
+Found: NEF in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Staehli Uschi in row 42...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking B+
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 44:
+2015-05-15		18:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Checking B+
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking Pef
+Valid!
+Found: PEF in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 63:
+2015-05-20		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Checking P
+Valid!
+Found: P in column 68:
+2015-05-22		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 81:
+2015-05-27		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 84:
+2015-05-28		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 91:
+2015-05-30		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 92 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 93:
+2015-05-31		19:30		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Looking for jobs for Trott Margarete in row 43...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 23:
+2015-05-09		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Checking P
+Valid!
+Found: P in column 40:
+2015-05-13		19:00		Schiffbau	Schneeweiss
+Adding job...
+Done!
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 46:
+2015-05-16	19:15	20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 57:
+2015-05-19		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 58 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 87:
+2015-05-29		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 88 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 90:
+2015-05-30		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Turelli Graziella in row 44...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 14:
+2015-05-06		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 34:
+2015-05-12		20:30		Pfauen		Morlang (Derniere)
+Adding job...
+Done!
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 37:
+2015-05-13		20:00		Pfauen		Schmutzige Hände (Premiere)
+Adding job...
+Done!
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 58:
+2015-05-20		18:00		Pfauen		Abo-Anlass
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 59:
+2015-05-20		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Checking E
+Valid!
+Found: E in column 60:
+2015-05-20		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 88:
+2015-05-30		09:30	13:30	Pfauen		Unicef Gala
+Adding job...
+Done!
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Van Eerd Maxine in row 45...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 31:
+2015-05-11		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 43:
+2015-05-15		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 67:
+2015-05-22		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 85:
+2015-05-29		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for Yogarajan Patrick in row 46...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 6:
+2015-05-03		15:00		Pfauen		Kasimir
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 7:
+2015-05-03		20:00		Pfauen		Zweifel /H. Schmidt
+Adding job...
+Done!
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 10:
+2015-05-04		20:00		Pfauen		CH-Schönheit
+Adding job...
+Done!
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 18:
+2015-05-07		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Checking Nef
+Valid!
+Found: NEF in column 28:
+2015-05-10	18:15	19:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 31:
+2015-05-11		20:30		Pfauen		Übergewicht
+Adding job...
+Done!
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 35:
+2015-05-12		20:15		Schiffbau	Love no love
+Adding job...
+Done!
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 41:
+2015-05-14		19:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 47:
+2015-05-17		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 54:
+2015-05-18		20:00		Schiffbau	Sterbeszenen
+Adding job...
+Done!
+Checking N
+Valid!
+Found: N in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Checking B
+Valid!
+Found: B in column 64:
+2015-05-21		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 75:
+2015-05-25		19:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 76 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 77:
+2015-05-26	19:15	20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 82:
+2015-05-28		20:00		Pfauen		A1 Strasse (Premiere)
+Adding job...
+Done!
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 92:
+2015-05-31		19:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 93 empty. Skipping.
+Looking for jobs for Zanchetta Giacomo in row 47...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Cell in column 20 empty. Skipping.
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Cell in column 45 empty. Skipping.
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Cell in column 53 empty. Skipping.
+Cell in column 54 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 55:
+2015-05-19		20:00		Pfauen		Schmutzige Hände
+Adding job...
+Done!
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Checking E
+Valid!
+Found: E in column 80:
+2015-05-27		20:00		Pfauen		Zofen
+Adding job...
+Done!
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Cell in column 89 empty. Skipping.
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Looking for jobs for NN in row 48...
+Cell in column 4 empty. Skipping.
+Cell in column 5 empty. Skipping.
+Cell in column 6 empty. Skipping.
+Cell in column 7 empty. Skipping.
+Cell in column 8 empty. Skipping.
+Cell in column 9 empty. Skipping.
+Cell in column 10 empty. Skipping.
+Cell in column 11 empty. Skipping.
+Cell in column 12 empty. Skipping.
+Cell in column 13 empty. Skipping.
+Cell in column 14 empty. Skipping.
+Cell in column 15 empty. Skipping.
+Cell in column 16 empty. Skipping.
+Cell in column 17 empty. Skipping.
+Cell in column 18 empty. Skipping.
+Cell in column 19 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 20:
+2015-05-08		20:00		Pfauen		Gantenbein
+Adding job...
+Done!
+Cell in column 21 empty. Skipping.
+Cell in column 22 empty. Skipping.
+Cell in column 23 empty. Skipping.
+Cell in column 24 empty. Skipping.
+Cell in column 25 empty. Skipping.
+Cell in column 26 empty. Skipping.
+Cell in column 27 empty. Skipping.
+Cell in column 28 empty. Skipping.
+Cell in column 29 empty. Skipping.
+Cell in column 30 empty. Skipping.
+Cell in column 31 empty. Skipping.
+Cell in column 32 empty. Skipping.
+Cell in column 33 empty. Skipping.
+Cell in column 34 empty. Skipping.
+Cell in column 35 empty. Skipping.
+Cell in column 36 empty. Skipping.
+Cell in column 37 empty. Skipping.
+Cell in column 38 empty. Skipping.
+Cell in column 39 empty. Skipping.
+Cell in column 40 empty. Skipping.
+Cell in column 41 empty. Skipping.
+Cell in column 42 empty. Skipping.
+Cell in column 43 empty. Skipping.
+Cell in column 44 empty. Skipping.
+Checking E+
+Valid!
+Found: E+ in column 45:
+2015-05-16		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 46 empty. Skipping.
+Cell in column 47 empty. Skipping.
+Cell in column 48 empty. Skipping.
+Cell in column 49 empty. Skipping.
+Cell in column 50 empty. Skipping.
+Cell in column 51 empty. Skipping.
+Cell in column 52 empty. Skipping.
+Checking N
+Valid!
+Found: N in column 53:
+2015-05-18	19:15	20:00		Pfauen		Kasimir
+Adding job...
+Done!
+Cell in column 54 empty. Skipping.
+Cell in column 55 empty. Skipping.
+Cell in column 56 empty. Skipping.
+Cell in column 57 empty. Skipping.
+Cell in column 58 empty. Skipping.
+Cell in column 59 empty. Skipping.
+Cell in column 60 empty. Skipping.
+Cell in column 61 empty. Skipping.
+Cell in column 62 empty. Skipping.
+Cell in column 63 empty. Skipping.
+Cell in column 64 empty. Skipping.
+Cell in column 65 empty. Skipping.
+Cell in column 66 empty. Skipping.
+Cell in column 67 empty. Skipping.
+Cell in column 68 empty. Skipping.
+Cell in column 69 empty. Skipping.
+Cell in column 70 empty. Skipping.
+Cell in column 71 empty. Skipping.
+Cell in column 72 empty. Skipping.
+Cell in column 73 empty. Skipping.
+Cell in column 74 empty. Skipping.
+Cell in column 75 empty. Skipping.
+Cell in column 76 empty. Skipping.
+Cell in column 77 empty. Skipping.
+Cell in column 78 empty. Skipping.
+Cell in column 79 empty. Skipping.
+Cell in column 80 empty. Skipping.
+Cell in column 81 empty. Skipping.
+Cell in column 82 empty. Skipping.
+Cell in column 83 empty. Skipping.
+Cell in column 84 empty. Skipping.
+Cell in column 85 empty. Skipping.
+Cell in column 86 empty. Skipping.
+Cell in column 87 empty. Skipping.
+Cell in column 88 empty. Skipping.
+Checking B+
+Warning issued: Job not found, entry: default job
+Found: Sonstiges in column 89:
+2015-05-30		20:00		Pfauen		Ursus+Nadeschkin
+Adding job...
+Done!
+Cell in column 90 empty. Skipping.
+Cell in column 91 empty. Skipping.
+Cell in column 92 empty. Skipping.
+Cell in column 93 empty. Skipping.
+Done.

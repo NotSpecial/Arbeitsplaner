@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:N Zweifel
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150201T175500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150201T205500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Planzer Rita\nN	Acklin Matthias\nN	Dem
+ enga Lorenzo\nN	Kapiri Thokozani\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Tiffany
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150202T193000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150202T203000
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:VEF	Renfer Delphine\nPEF	Meyer Annina\nNEF	Erdin Andri\nNEF	Fr
+ üh Margot\nE	Acklin Matthias\nE	Schwaller Elia\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150204T091500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150204T101500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nN	Barbé Nicolas\nN	Brüderli Heidi\nN	D
+ emenga Lorenzo\nN	Meier-Sledz Mirka\nN	Yogarajan Patrick\nE	Zimmermann Isa
+ bel\nE	Acklin Matthias\nE	Früh Margot\nE	Sorgo Noemi\nE	Turelli Graziella
+ \n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Yvonne
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150204T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150204T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Hunziker Roman\nP	Bartkowiak Jannike\nN	Acklin Matthias\nN	S
+ inger Leonie\nN	Sorgo Noemi\nE	Kapiri Thokozani\nE	Skender Keko\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Physiker
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150205T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150205T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Meyer Annina\nN	Acklin Matthias\nN	Fr
+ üh Margot\nN	Fuchs Manuela\nN	Trott Margarete\nN	Van Eerd Maxine\nN	Yogar
+ ajan Patrick\nB	Schertenleib Thomas\nE	Brüderli Heidi\nE	Demenga Lorenzo\
+ nE	Kapiri Thokozani\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150207T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150207T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Renfer Delphine\nP	Brüderli Heidi\nN	Acklin Matthias\nN	Dem
+ enga Lorenzo\nN	Dietmüller Alexander\nN	Früh Margot\nN	Planzer Rita\nN	P
+ uppato Gun-Britt\nN	Turelli Graziella\nB	Bartkowiak Jannike\nE	Barbé Nico
+ las\nE	Erdin Andri\nE	Kapiri Thokozani\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150208T135500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150208T165500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Brüderli Heidi\nN	Acklin Matthias\nN	
+ Kapiri Thokozani\nN	Meier-Sledz Mirka\nN	Trott Margarete\nN	Turelli Grazie
+ lla\nN	Van Eerd Maxine\nB	Demenga Lorenzo\nE+	Geser Gerda\nE+	Puppato Gun-
+ Britt\nE	Yogarajan Patrick\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150215T135500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150215T165500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Spotti Renzo\nP	Hunziker Roman\nN	Acklin Matthias\nN	Früh M
+ argot\nN	Geser Gerda\nN	Puppato Gun-Britt\nN	Trott Margarete\nN	Turelli Gr
+ aziella\nN	Yogarajan Patrick\nB	Erdin Andri\nE	Kapiri Thokozani\nE	Singer 
+ Leonie\nE	Skender Keko\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Sommernachtstraum
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150216T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150216T201500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Renfer Delphine\nP	Sorgo Noemi\nN	Binkert Norina\nN	Erdin An
+ dri\nN	Fuchs Manuela\nN	Singer Leonie\nN	Skender Keko\nN	Yogarajan Patrick
+ \nB	Staehli Uschi\nE	Acklin Matthias\nE	Meyer Annina\nE	Van Eerd Maxine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Brauchst du mich
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150219T182500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150219T212500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Renfer Delphine\nN	Acklin Matthias\nN	Erdin Andri\nE	Barbé 
+ Nicolas\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Brauchst du mich
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150221T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150221T194500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Renfer Delphine\nN	Demenga Lorenzo\nE	
+ Acklin Matthias\nE	Barbé Nicolas\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Sommernachtstraum
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150221T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150221T201500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Renfer Delphine\nN	Spotti Renzo\nN	Dem
+ enga Lorenzo\nN	Früh Margot\nN	Kapiri Thokozani\nN	Planzer Rita\nB	Erdin 
+ Andri\nE	Acklin Matthias\nE	Brüderli Heidi\nE	Skender Keko\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150222T095500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150222T125500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Sorgo Noemi\nN	Acklin Matthias\nN	Brü
+ derli Heidi\nN	Früh Margot\nN	Kapiri Thokozani\nN	Puppato Gun-Britt\nN	Tr
+ ott Margarete\nE+	Barbé Nicolas\nE+	Turelli Graziella\nE+	Yogarajan Patri
+ ck\nE+	Zanchetta Giacomo\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Schweizer Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150222T180000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150222T190000
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:VEF	Renfer Delphine\nPEF	Meyer Annina\nNEF	Spotti Renzo\nNEF	K
+ apiri Thokozani\nNEF	Meister Marietta\nNEF	Singer Leonie\nN	Planzer Rita\n
+ N	Turelli Graziella\nB	Acklin Matthias\nE	Brüderli Heidi\nE	Früh Margot\
+ nE	Puppato Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150224T085500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150224T115500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:N	Acklin Matthias\nN	Brüderli Heidi\nN	Fuchs Manuela\nN	Trott
+  Margarete\nN	Turelli Graziella\nN	Zanchetta Giacomo\nE	Geser Gerda\nE	Mei
+ er-Sledz Mirka\nE	Puppato Gun-Britt\nE	Sorgo Noemi\nSonstiges	Zimmermann I
+ sabel\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Schweizer Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150224T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150224T200000
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Renfer Delphine\nP	Sorgo Noemi\nN	Erdin Andri\nN	Fuchs Manue
+ la\nN	Geser Gerda\nN	Schertenleib Thomas\nN	Staehli Uschi\nN	Van Eerd Maxi
+ ne\nB	Acklin Matthias\nE	Bartkowiak Jannike\nE	Brüderli Heidi\nE	Dietmül
+ ler Alexander\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Lesung Suter
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150225T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150225T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:P	Bartkowiak Jannike\nN	Acklin Matthias\nN	Brüderli Heidi\nN	
+ Dietmüller Alexander\nN	Henn Sabine\nN	Puppato Gun-Britt\nB	Meyer Annina\
+ nE	Geser Gerda\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Fratelli
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150226T125500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150226T155500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:N	Acklin Matthias\nE	Skender Keko\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Tiffany
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150227T193000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150227T203000
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:VEF	Jovanovski Melanie\nPEF	Lendi Jael\nNEF	Schwaller Elia\nNE
+ F	Trott Margarete\nB	Erdin Andri\nE	Acklin Matthias\nE	Meister Marietta\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Chin.Neujahr
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150228T182500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150228T212500
+DTSTAMP;VALUE=DATE-TIME:20150121T094400Z
+DESCRIPTION:V	Spotti Renzo\nN	Acklin Matthias\nN	Brüderli Heidi\nN	Meier-
+ Sledz Mirka\nN	Singer Leonie\nN	Skender Keko\nN	Sorgo Noemi\nN	Turelli Gra
+ ziella\nB	Demenga Lorenzo\nE+	Fuchs Manuela\nE+	Planzer Rita\n
+LOCATION:Pfauen
+END:VEVENT
+END:VCALENDAR

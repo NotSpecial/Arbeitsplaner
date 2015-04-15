@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:E+ Hecht
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141103T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141103T211500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Fuchs Manuela\nP	Beeli Franziska\nN	Demenga Lorenzo\nN	Meier
+ -Sledz Mirka\nN	Schertenleib Thomas\nN	Skender Keko\nN	Sorgo Noemi\nN	Ture
+ lli Graziella\nN	Van Eerd Maxine\nB	Acklin Matthias\nE+	Binkert Norina\nE+
+ 	Dietmüller Alexander\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Drei Schwestern
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141104T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141104T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Fuchs Manuela\nP	Bartkowiak Jannike\nN	Acklin Matthias\nN	Di
+ etmüller Alexander\nN	Meyer Annina\nN	Schertenleib Thomas\nN	Skender Keko
+ \nN	Van Eerd Maxine\nN	Yogarajan Patrick\nB	Demenga Lorenzo\nE+	Beeli Fran
+ ziska\nE+	Sorgo Noemi\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Gantenbein
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141110T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141110T200000
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Spotti Renzo\nP	Sorgo Noemi\nN	Demenga Lorenzo\nN	Früh Marg
+ ot\nN	Schertenleib Thomas\nN	Skender Keko\nN	Turelli Graziella\nN	Van Eerd
+  Maxine\nN	Zanchetta Giacomo\nB	Dietmüller Alexander\nE	Beeli Franziska\n
+ E	Meier-Sledz Mirka\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Sommernachtstraum
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141111T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141111T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Hunziker Roman\nN	Fuchs Manuela\nN	Bar
+ bé Nicolas\nN	Beeli Franziska\nN	Dietmüller Alexander\nN	Lendi Jael\nN	S
+ chertenleib Thomas\nN	Yogarajan Patrick\nB	Renfer Delphine\nE	Bartkowiak J
+ annike\nE	Sorgo Noemi\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141114T091500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141114T101500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Jovanovski Melanie\nN	Acklin Matthias\nN	Planzer Rita\nN	Pup
+ pato Gun-Britt\nN	Skender Keko\nN	Sorgo Noemi\nE	Demenga Lorenzo\nE	Dietm
+ üller Alexander\nE	Geser Gerda\nE	Turelli Graziella\nE	Yogarajan Patrick\
+ n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Dogtooth
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141114T192500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141114T223000
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Spotti Renzo\nN	Dietmüller Alexander\nE	Puppato Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Physiker
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141117T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141117T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Fuchs Manuela\nP	Beeli Franziska\nN	Brüderli Heidi\nN	Dietm
+ üller Alexander\nN	Geser Gerda\nN	Meier-Sledz Mirka\nN	Puppato Gun-Britt\
+ nN	Singer Leonie\nN	Staehli Uschi\nB	Acklin Matthias\nE	Früh Margot\nE	Tu
+ relli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Schreibtisch
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141119T175500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141119T205500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Fuchs Manuela\nN	Dietmüller Alexander\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Hotel Lucky Hole
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141119T193000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141119T203000
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Fuchs Manuela\nP	Beeli Franziska\nN	Früh Margot\nE	Dietmül
+ ler Alexander\nE	Schwaller Elia\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEF Sommernachtstraum
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141121T184000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141121T222500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:VEF	Spotti Renzo\nPEF	Beeli Franziska\nNEF	Binkert Norina\nNEF
+ 	Dietmüller Alexander\nNEF	Früh Margot\nNEF	Turelli Graziella\nN	Brüder
+ li Heidi\nN	Skender Keko\nN	Van Eerd Maxine\nB	Meyer Annina\nE	Meier-Sledz
+  Mirka\nE	Planzer Rita\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Drei Schwestern
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141124T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141124T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Fuchs Manuela\nP	Hunziker Roman\nN	Barbé Nicolas\nN	Demenga
+  Lorenzo\nN	Dietmüller Alexander\nN	Früh Margot\nN	Meier-Sledz Mirka\nN	
+ Staehli Uschi\nN	Van Eerd Maxine\nB	Schertenleib Thomas\nE+	Acklin Matthia
+ s\nE+	Binkert Norina\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Hecht
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141125T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141125T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:V	Spotti Renzo\nP	Renfer Delphine\nN	Dietmüller Alexander\nN	
+ Lendi Jael\nN	Schertenleib Thomas\nN	Skender Keko\nN	Sorgo Noemi\nN	Turell
+ i Graziella\nN	Van Eerd Maxine\nB	Acklin Matthias\nE+	Erdin Andri\nE+	Frü
+ h Margot\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Es sagt mir nichts
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141126T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141126T215500
+DTSTAMP;VALUE=DATE-TIME:20150121T094431Z
+DESCRIPTION:Publikumsgespraech im Anschluss\n\nV	Spotti Renzo\nP	Lendi Jae
+ l\nN	Barbé Nicolas\nN	Dietmüller Alexander\nN	Geser Gerda\nN	Meyer Annin
+ a\nN	Puppato Gun-Britt\nN	Sorgo Noemi\nN	Turelli Graziella\nB	Beeli Franzi
+ ska\nE	Skender Keko\nE	Trott Margarete\n
+LOCATION:Pfauen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1 @@
+C:\Code\Arbeitsplaner\env\Scripts\python.exe run.py

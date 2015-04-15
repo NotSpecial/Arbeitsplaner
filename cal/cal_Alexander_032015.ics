@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:B Es sagt mir nichts…
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150302T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150302T200000
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Renfer Delphine\nN	Geser Gerda\nN	Pupp
+ ato Gun-Britt\nN	Schertenleib Thomas\nN	Singer Leonie\nN	Sorgo Noemi\nN	Tu
+ relli Graziella\nN	Van Eerd Maxine\nB	Dietmüller Alexander\nE	Erdin Andri
+ \nE	Früh Margot\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Schweizer Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150304T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150304T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:PEF	Bartkowiak Jannike\nNEF	Früh Margot\nNEF	Singer Leonie\nN
+ EF	Skender Keko\nNEF	Turelli Graziella\nN	Binkert Norina\nN	Demenga Lorenz
+ o\nN	Dietmüller Alexander\nB	Acklin Matthias\nE+	Meier-Sledz Mirka\nE+	Yo
+ garajan Patrick\nE	Fuchs Manuela\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Schweizer Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150305T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150305T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Renfer Delphine\nP	Bartkowiak Jannike\nN	Acklin Matthias\nN	
+ Demenga Lorenzo\nN	Dietmüller Alexander\nN	Geser Gerda\nN	Schertenleib Th
+ omas\nN	Van Eerd Maxine\nB/N	Barbé Nicolas\nE+	Meyer Annina\nE+	Puppato G
+ un-Britt\nE	Henn Sabine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Yvonne (Derniere)
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150309T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150309T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Hunziker Roman\nP	Sorgo Noemi\nN	Barbé Nicolas\nN	Dietmüll
+ er Alexander\nN	Fuchs Manuela\nE	Acklin Matthias\nE	Schwaller Elia\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Brauchst du mich..
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150311T182500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150311T212500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Renfer Delphine\nP	Staehli Uschi\nN	Dietmüller Alexander\nB
+ 	Demenga Lorenzo\nE	Barbé Nicolas\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Schweizer Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150311T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150311T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Renfer Delphine\nP	Staehli Uschi\nN	Acklin Matthias\nN	Binke
+ rt Norina\nN	Demenga Lorenzo\nN	Dietmüller Alexander\nN	Puppato Gun-Britt
+ \nN	Skender Keko\nN	Turelli Graziella\nB	Bartkowiak Jannike\nE+	Lendi Jael
+ \nE+	Meyer Annina\nE	Fuchs Manuela\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Titus
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150312T171500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150312T181500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:Publikumsgespraech im Anschluss\n\nV	Hunziker Roman\nP	Bartkow
+ iak Jannike\nN	Schwaller Elia\nE	Dietmüller Alexander\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Brauchst du mich..
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150316T182500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150316T212500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Hunziker Roman\nP	Binkert Norina\nN	Dietmüller Alexander\nE
+ 	Acklin Matthias\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150316T192500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150316T222500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Hunziker Roman\nP	Binkert Norina\nN	Dietmüller Alexander\nN
+ 	Früh Margot\nN	Schertenleib Thomas\nN	Turelli Graziella\nN	Van Eerd Maxi
+ ne\nB	Erdin Andri\nE	Acklin Matthias\nE	Singer Leonie\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Schweizer Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150317T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150317T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Renfer Delphine\nP	Meyer Annina\nN	Acklin Matthias\nN	Dietm
+ üller Alexander\nN	Skender Keko\nN	Trott Margarete\nN	Turelli Graziella\n
+ N	Van Eerd Maxine\nN	Yogarajan Patrick\nB	Sorgo Noemi\nE+	Schertenleib Tho
+ mas\nE+	Schwaller Elia\nE	Staehli Uschi\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Kasimir (Premiere)
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150321T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150321T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Hunziker Roman\nP	Meyer Annina\nN	Acklin Matthias\nN	Barbé 
+ Nicolas\nN	Binkert Norina\nN	Brüderli Heidi\nN	Dietmüller Alexander\nN	F
+ uchs Manuela\nN	Meier-Sledz Mirka\nN	Planzer Rita\nN	Puppato Gun-Britt\nN	
+ Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Brauchst du mich..
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150324T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150324T194500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:N	Schertenleib Thomas\nN	Turelli Graziella\nE	Dietmüller Alex
+ ander\nE	Skender Keko\nSonstiges	Zimmermann Isabel\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Kasimir
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150325T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150325T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Renfer Delphine\nP	Staehli Uschi\nN	Acklin Matthias\nN	Demen
+ ga Lorenzo\nN	Dietmüller Alexander\nN	Früh Margot\nN	Schwaller Elia\nN	S
+ kender Keko\nN	Turelli Graziella\nB	Meyer Annina\nE	Binkert Norina\nE	Fuch
+ s Manuela\nE	Yogarajan Patrick\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Kasimir
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150326T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150326T215500
+DTSTAMP;VALUE=DATE-TIME:20150224T140906Z
+DESCRIPTION:V	Hunziker Roman\nP	Meyer Annina\nN	Acklin Matthias\nN	Barbé 
+ Nicolas\nN	Dietmüller Alexander\nN	Planzer Rita\nN	Schertenleib Thomas\nN
+ 	Skender Keko\nN	Yogarajan Patrick\nB	Demenga Lorenzo\nE	Lendi Jael\nE	Sin
+ ger Leonie\nE	Sorgo Noemi\n
+LOCATION:Pfauen
+END:VEVENT
+END:VCALENDAR

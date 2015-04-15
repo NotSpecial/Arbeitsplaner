@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:B Hecht
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141103T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141103T200000
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Fuchs Manuela\nP	Beeli Franziska\nN	Demenga Lorenzo\nN	Meier
+ -Sledz Mirka\nN	Schertenleib Thomas\nN	Skender Keko\nN	Sorgo Noemi\nN	Ture
+ lli Graziella\nN	Van Eerd Maxine\nB	Acklin Matthias\nE+	Binkert Norina\nE+
+ 	Dietmüller Alexander\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Drei Schwestern
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141104T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141104T215500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Fuchs Manuela\nP	Bartkowiak Jannike\nN	Acklin Matthias\nN	Di
+ etmüller Alexander\nN	Meyer Annina\nN	Schertenleib Thomas\nN	Skender Keko
+ \nN	Van Eerd Maxine\nN	Yogarajan Patrick\nB	Demenga Lorenzo\nE+	Beeli Fran
+ ziska\nE+	Sorgo Noemi\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141108T145500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141108T175500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Zähringer Robert\nV	Adame Rafael\nP	Meyer Annina\nN	Acklin 
+ Matthias\nN	Barbé Nicolas\nN	Brüderli Heidi\nN	Kapiri Thokozani\nN	Meier
+ -Sledz Mirka\nN	Planzer Rita\nN	Puppato Gun-Britt\nN	Skender Keko\nN	Turel
+ li Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Premierenfeier
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141108T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141108T220000
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Adame Rafael\nN	Acklin Matthias\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEF Sommernachtstraum
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141112T184000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141112T222500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:VEF	Zähringer Robert\nPEF	Sorgo Noemi\nNEF	Acklin Matthias\nN
+ EF	Barbé Nicolas\nNEF	Bartkowiak Jannike\nNEF	Geser Gerda\nN	Beeli Franzi
+ ska\nN	Singer Leonie\nN	Skender Keko\nB	Erdin Andri\nE	Staehli Uschi\nE	Tu
+ relli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Josa
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141113T125500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141113T155500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Hunziker Roman\nN	Acklin Matthias\nE	Skender Keko\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141114T085500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141114T115500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Jovanovski Melanie\nN	Acklin Matthias\nN	Planzer Rita\nN	Pup
+ pato Gun-Britt\nN	Skender Keko\nN	Sorgo Noemi\nE	Demenga Lorenzo\nE	Dietm
+ üller Alexander\nE	Geser Gerda\nE	Turelli Graziella\nE	Yogarajan Patrick\
+ n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E+ Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141115T151500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141115T171500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Spotti Renzo\nP	Meyer Annina\nN	Binkert Norina\nN	Kapiri Tho
+ kozani\nN	Planzer Rita\nN	Trott Margarete\nN	Turelli Graziella\nN	Yogaraja
+ n Patrick\nN	Zanchetta Giacomo\nB	Erdin Andri\nE+	Acklin Matthias\nE+	Pupp
+ ato Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Dogtooth
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141115T182500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141115T040000
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Hunziker Roman\nN	Acklin Matthias\nE	Puppato Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Josa
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141116T141500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141116T151500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Zimmermann Isabel\nP	Beeli Franziska\nN	Sorgo Noemi\nE	Ackli
+ n Matthias\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Hotel Lucky Hole
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141116T181000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141116T211000
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Zimmermann Isabel\nP	Beeli Franziska\nN	Acklin Matthias\nN	P
+ lanzer Rita\nN	Schertenleib Thomas\nN	Sorgo Noemi\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Physiker
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141117T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141117T200000
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Fuchs Manuela\nP	Beeli Franziska\nN	Brüderli Heidi\nN	Dietm
+ üller Alexander\nN	Geser Gerda\nN	Meier-Sledz Mirka\nN	Puppato Gun-Britt\
+ nN	Singer Leonie\nN	Staehli Uschi\nB	Acklin Matthias\nE	Früh Margot\nE	Tu
+ relli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E+ Hecht
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141118T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141118T211500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Renfer Delphine\nP	Meyer Annina\nN	Bartkowiak Jannike\nN	Len
+ di Jael\nN	Schertenleib Thomas\nN	Skender Keko\nN	Staehli Uschi\nN	Turelli
+  Graziella\nN	Van Eerd Maxine\nB	Sorgo Noemi\nE+	Acklin Matthias\nE+	Puppa
+ to Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Morlang
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141118T194500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141118T204500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Renfer Delphine\nP	Meyer Annina\nN	Schertenleib Thomas\nE	Ac
+ klin Matthias\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Gift
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141119T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141119T215500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:VEF	Zähringer Robert\nPEF	Renfer Delphine\nNEF	Binkert Norina
+ \nNEF	Erdin Andri\nNEF	Staehli Uschi\nNEF	Turelli Graziella\nN	Acklin Matt
+ hias\nN	Barbé Nicolas\nN	Brüderli Heidi\nN	Sorgo Noemi\nN	Trott Margaret
+ e\nN	Zanchetta Giacomo\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Josa
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141120T125500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141120T155500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:N	Acklin Matthias\nN	Skender Keko\nSonstiges	Zähringer Robert
+ \n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Szenen einer Ehe
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141121T181500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141121T191500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:VEF	Hunziker Roman\nPEF	Sorgo Noemi\nNEF	Demenga Lorenzo\nN	Sc
+ hwaller Elia\nE+	Zanchetta Giacomo\nE	Acklin Matthias\nE	Schertenleib Thom
+ as\nE	Yogarajan Patrick\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B/N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141123T095500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141123T125500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Sorgo Noemi\nN	Brüderli Heidi\nN	Erdi
+ n Andri\nN	Geser Gerda\nN	Meier-Sledz Mirka\nN	Singer Leonie\nN	Turelli Gr
+ aziella\nB/N	Acklin Matthias\nE+	Barbé Nicolas\nE+	Kapiri Thokozani\nE	Pu
+ ppato Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E+ Drei Schwestern
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141124T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141124T211500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Fuchs Manuela\nP	Hunziker Roman\nN	Barbé Nicolas\nN	Demenga
+  Lorenzo\nN	Dietmüller Alexander\nN	Früh Margot\nN	Meier-Sledz Mirka\nN	
+ Staehli Uschi\nN	Van Eerd Maxine\nB	Schertenleib Thomas\nE+	Acklin Matthia
+ s\nE+	Binkert Norina\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Löwenherz
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141125T085500
+DTEND;TZID=CET;VALUE=DATE-TIME:20141125T115500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:N	Acklin Matthias\nN	Puppato Gun-Britt\nN	Singer Leonie\nN	Ske
+ nder Keko\nN	Trott Margarete\nN	Turelli Graziella\nE	Zimmermann Isabel\nE	
+ Sorgo Noemi\nSonstiges	Zähringer Robert\nSonstiges	Meier-Sledz Mirka\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Hecht
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141125T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141125T200000
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:V	Spotti Renzo\nP	Renfer Delphine\nN	Dietmüller Alexander\nN	
+ Lendi Jael\nN	Schertenleib Thomas\nN	Skender Keko\nN	Sorgo Noemi\nN	Turell
+ i Graziella\nN	Van Eerd Maxine\nB	Acklin Matthias\nE+	Erdin Andri\nE+	Frü
+ h Margot\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEF Jeder Stirbt
+DTSTART;TZID=CET;VALUE=DATE-TIME:20141130T154000
+DTEND;TZID=CET;VALUE=DATE-TIME:20141130T192500
+DTSTAMP;VALUE=DATE-TIME:20150114T205449Z
+DESCRIPTION:VEF	Spotti Renzo\nPEF	Hunziker Roman\nNEF	Acklin Matthias\nNEF
+ 	Brüderli Heidi\nNEF	Meister Marietta\nNEF	Zanchetta Giacomo\nN	Barbé Ni
+ colas\nN	Binkert Norina\nN	Turelli Graziella\nB	Kapiri Thokozani\nE+	Planz
+ er Rita\nE+	Skender Keko\n
+LOCATION:Pfauen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:V Sommernachtstraum
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150103T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150103T221500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Hunziker Roman\nP	Meyer Annina\nN	Brüderli Heidi\nN	Kapiri 
+ Thokozani\nN	Skender Keko\nN	Trott Margarete\nN	Turelli Graziella\nB	Yogar
+ ajan Patrick\nE	Geser Gerda\nE	Planzer Rita\nE	Puppato Gun-Britt\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:P Hecht
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150105T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150105T221500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Hunziker Roman\nN	Binkert Norina\nN	Di
+ etmüller Alexander\nN	Meier-Sledz Mirka\nN	Singer Leonie\nN	Skender Keko\
+ nN	Van Eerd Maxine\nN	Zanchetta Giacomo\nB	Beeli Franziska\nE+	Barbé Nico
+ las\nE+	Fuchs Manuela\nE	Schertenleib Thomas\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E+ Poetry Slam
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150109T194500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150109T214500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Spotti Renzo\nN	Beeli Franziska\nN	Demenga Lorenzo\nN	Früh 
+ Margot\nN	Planzer Rita\nN	Schertenleib Thomas\nN	Sorgo Noemi\nN	Staehli Us
+ chi\nB	Acklin Matthias\nE+	Hunziker Roman\nE+	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:P Yvonne Burgundprz.
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150110T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150110T221500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Zimmermann Isabel\nP	Hunziker Roman\nN	Renfer Delphine\nN	Ac
+ klin Matthias\nN	Beeli Franziska\nN	Dietmüller Alexander\nN	Staehli Uschi
+ \nN	Yogarajan Patrick\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonstiges FV-Treff/ ESSEN
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150112T172900
+DTEND;TZID=CET;VALUE=DATE-TIME:20150112T195900
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:Sonstiges	Zimmermann Isabel\nSonstiges	Adame Rafael\nSonstiges
+ 	Hunziker Roman\nSonstiges	Jovanovski Melanie\nSonstiges	Renfer Delphine\n
+ Sonstiges	Spotti Renzo\nSonstiges	Acklin Matthias\nSonstiges	Beeli Franzis
+ ka\nSonstiges	Binkert Norina\nSonstiges	Brüderli Heidi\nSonstiges	Demenga
+  Lorenzo\nSonstiges	Dietmüller Alexander\nSonstiges	Erdin Andri\nSonstige
+ s	Früh Margot\nSonstiges	Fuchs Manuela\nSonstiges	Geser Gerda\nSonstiges	
+ Lendi Jael\nSonstiges	Meier-Sledz Mirka\nSonstiges	Meister Marietta\nSonst
+ iges	Planzer Rita\nSonstiges	Puppato Gun-Britt\nSonstiges	Schertenleib Tho
+ mas\nSonstiges	Schwaller Elia\nSonstiges	Singer Leonie\nSonstiges	Skender 
+ Keko\nSonstiges	Sorgo Noemi\nSonstiges	Turelli Graziella\nSonstiges	Yogara
+ jan Patrick\nSonstiges	Zanchetta Giacomo\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V Räuber
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150113T174500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150113T211500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Hunziker Roman\nP	Lendi Jael\nN	Turelli Graziella\nE	Skender
+  Keko\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V Yvonne Burgundprz.
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150113T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150113T221500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Hunziker Roman\nP	Lendi Jael\nN	Barbé Nicolas\nN	Binkert No
+ rina\nN	Schertenleib Thomas\nE	Erdin Andri\nE	Schwaller Elia\nE	Skender Ke
+ ko\nE	Turelli Graziella\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150115T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150115T221500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Hunziker Roman\nP	Beeli Franziska\nN	Binkert Norina\nN	Brüd
+ erli Heidi\nN	Fuchs Manuela\nN	Geser Gerda\nN	Lendi Jael\nN	Puppato Gun-Br
+ itt\nN	Schwaller Elia\nN	Staehli Uschi\nN	Van Eerd Maxine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V Premierenfeier
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150115T203000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150116T000000
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Hunziker Roman\nN	Brüderli Heidi\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:P Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150118T134500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150118T171500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Renfer Delphine\nP	Hunziker Roman\nN	Spotti Renzo\nN	Beeli F
+ ranziska\nN	Demenga Lorenzo\nN	Singer Leonie\nN	Trott Margarete\nN	Turelli
+  Graziella\nN	Yogarajan Patrick\nB	Sorgo Noemi\nE	Früh Margot\nE	Geser Ge
+ rda\nE	Kapiri Thokozani\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEF Bourgeoisie
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150119T183000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150119T224500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:VEF	Jovanovski Melanie\nPEF	Hunziker Roman\nNEF	Fuchs Manuela\
+ nNEF	Geser Gerda\nNEF	Singer Leonie\nNEF	Zanchetta Giacomo\nN	Acklin Matth
+ ias\nN	Meier-Sledz Mirka\nN	Yogarajan Patrick\nB	Sorgo Noemi\nE	Puppato Gu
+ n-Britt\nE	Turelli Graziella\nE	Van Eerd Maxine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Yvonne Burgundprz.
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150123T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150123T215500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:VEF	Jovanovski Melanie\nPEF	Beeli Franziska\nNEF	Meister Marie
+ tta\nNEF	Schwaller Elia\nN	Hunziker Roman\nE	Barbé Nicolas\nE	Skender Kek
+ o\nE	Trott Margarete\nSonstiges	Geser Gerda\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEF Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150124T183000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150124T224500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:VEF	Spotti Renzo\nPEF	Hunziker Roman\nNEF	Binkert Norina\nNEF	
+ Singer Leonie\nNEF	Sorgo Noemi\nNEF	Trott Margarete\nN	Geser Gerda\nN	Plan
+ zer Rita\nN	Puppato Gun-Britt\nB	Erdin Andri\nE	Bartkowiak Jannike\nE	Kapi
+ ri Thokozani\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:P Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150127T184500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150127T221500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Hunziker Roman\nN	Acklin Matthias\nN	E
+ rdin Andri\nN	Puppato Gun-Britt\nN	Sorgo Noemi\nN	Turelli Graziella\nN	Van
+  Eerd Maxine\nN	Yogarajan Patrick\nB	Schertenleib Thomas\nE	Zimmermann Isa
+ bel\nE	Binkert Norina\nE	Trott Margarete\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEF Roberto Zucco
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150130T183000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150130T224500
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:VEF	Spotti Renzo\nPEF	Hunziker Roman\nNEF	Bartkowiak Jannike\n
+ NEF	Demenga Lorenzo\nNEF	Kapiri Thokozani\nNEF	Van Eerd Maxine\nN	Planzer 
+ Rita\nN	Schwaller Elia\nN	Yogarajan Patrick\nB	Erdin Andri\nE	Dietmüller 
+ Alexander\nE	Meier-Sledz Mirka\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Frühstück bei Tiffany
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150131T191000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150131T221000
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Zimmermann Isabel\nP	Beeli Franziska\nN	Hunziker Roman\nN	Ac
+ klin Matthias\nN	Dietmüller Alexander\nN	Schwaller Elia\nN	Staehli Uschi\
+ n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V Premierenfeier
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150131T203000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150201T000000
+DTSTAMP;VALUE=DATE-TIME:20150114T205313Z
+DESCRIPTION:V	Hunziker Roman\nN	Schwaller Elia\n
+LOCATION:Schiffbau
+END:VEVENT
+END:VCALENDAR

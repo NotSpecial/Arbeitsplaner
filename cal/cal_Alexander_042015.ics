@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:N Sterbeszenen
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150401T191000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150401T221000
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Renfer Delphine\nP	Binkert Norina\nN	Dietmüller Alexander\n
+ N	Singer Leonie\nE	Schwaller Elia\nE	Yogarajan Patrick\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Poertry Slam
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150402T192500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150402T222500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Spotti Renzo\nN	Dietmüller Alexander\nN	Meyer Annina\nN	Pla
+ nzer Rita\nN	Puppato Gun-Britt\nN	Trott Margarete\nE+	Barbé Nicolas\nE+	H
+ enn Sabine\nSonstiges	Demenga Lorenzo\nSonstiges	Geser Gerda\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E+ CH-Schönheit
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150404T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150404T211500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Renfer Delphine\nN	Barbé Nicolas\nN	F
+ rüh Margot\nN	Skender Keko\nN	Sorgo Noemi\nN	Turelli Graziella\nE+	Dietm
+ üller Alexander\nE+	Planzer Rita\nE	Kapiri Thokozani\nSonstiges	Meyer Ann
+ ina\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Draussen
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150406T175500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150406T205500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Staehli Uschi\nN	Acklin Matthias\nN	Di
+ etmüller Alexander\nN	Kapiri Thokozani\nN	Meier-Sledz Mirka\nN	Planzer Ri
+ ta\nB	Barbé Nicolas\nE	Puppato Gun-Britt\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Kasimir+Karoline
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150410T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150410T200000
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Jovanovski Melanie\nP	Planzer Rita\nN	Spotti Renzo\nN	Früh 
+ Margot\nN	Kapiri Thokozani\nN	Puppato Gun-Britt\nN	Turelli Graziella\nN	Yo
+ garajan Patrick\nB	Dietmüller Alexander\nE	Geser Gerda\nE	Schertenleib Th
+ omas\nE	Van Eerd Maxine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Zofen (Premiere)
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150411T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150411T215500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Spotti Renzo\nP	Meyer Annina\nN	Adame Rafael\nN	Dietmüller 
+ Alexander\nN	Geser Gerda\nN	Meister Marietta\nN	Planzer Rita\nN	Puppato Gu
+ n-Britt\nN	Trott Margarete\nN	Turelli Graziella\nN	Van Eerd Maxine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Premierenfeier
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150410T220000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150411T010000
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Spotti Renzo\nN	Dietmüller Alexander\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Black Milk
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150412T181500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150412T191500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:VEF	Zimmermann Isabel\nPEF	Hunziker Roman\nNEF	Demenga Lorenzo
+ \nNEF	Fuchs Manuela\nNEF	Schertenleib Thomas\nNEF	Skender Keko\nN	Staehli 
+ Uschi\nE	Binkert Norina\nE	Dietmüller Alexander\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E Kultur Campus
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150422T191500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150422T201500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Demenga Lorenzo\nN	Fuchs Manuela\nE	Dietmüller Alexander\nE
+ 	Sorgo Noemi\n
+LOCATION:Schiffbau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B Zofen
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150423T190000
+DTEND;TZID=CET;VALUE=DATE-TIME:20150423T200000
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:Publikumsgespraech im Anschluss\n\nV	Hunziker Roman\nP	Bartkow
+ iak Jannike\nN	Acklin Matthias\nN	Binkert Norina\nN	Erdin Andri\nN	Planzer
+  Rita\nN	Schertenleib Thomas\nN	Van Eerd Maxine\nB	Dietmüller Alexander\n
+ E	Meyer Annina\nE	Staehli Uschi\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Lesung Brandauer
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150424T172500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150424T202500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Spotti Renzo\nP	Hunziker Roman\nN	Acklin Matthias\nN	Dietmü
+ ller Alexander\nN	Fuchs Manuela\nN	Geser Gerda\nN	Kapiri Thokozani\nN	Sorg
+ o Noemi\nN	Van Eerd Maxine\nB	Staehli Uschi\nE	Barbé Nicolas\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Lesung Brandauer
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150424T192500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150424T222500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Spotti Renzo\nP	Hunziker Roman\nN	Acklin Matthias\nN	Dietmü
+ ller Alexander\nN	Fuchs Manuela\nN	Geser Gerda\nN	Planzer Rita\nN	Staehli 
+ Uschi\nB	Sorgo Noemi\nE	Kapiri Thokozani\nE	Van Eerd Maxine\n
+LOCATION:Pfauen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N Gantenbein
+DTSTART;TZID=CET;VALUE=DATE-TIME:20150429T185500
+DTEND;TZID=CET;VALUE=DATE-TIME:20150429T215500
+DTSTAMP;VALUE=DATE-TIME:20150323T153128Z
+DESCRIPTION:V	Spotti Renzo\nP	Bartkowiak Jannike\nN	Binkert Norina\nN	Diet
+ müller Alexander\nN	Früh Margot\nN	Sorgo Noemi\nN	Staehli Uschi\nB	Fuchs
+  Manuela\nE	Acklin Matthias\nE	Schwaller Elia\nE	Turelli Graziella\n
+LOCATION:Pfauen
+END:VEVENT
+END:VCALENDAR
